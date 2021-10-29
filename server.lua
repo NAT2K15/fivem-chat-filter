@@ -22,7 +22,7 @@ function chatblacklist(str)
             if(blacklist == true) then
               blacklist = true
             else 
-              blakclist = false;
+              blacklist = false;
             end
         end
     end
